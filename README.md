@@ -1,2 +1,2 @@
 # scheduler_app
-Simple java application demonstrating ScheduledExecutor job
+Simple java SE application that demonstrates ScheduledExecutor performance in batch processing example.
